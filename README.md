@@ -1,2 +1,2 @@
 # NLP-Codes
-code for some common NLP models
+implementation of some common NLP models
